@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Graduated in Computer System Analysis at Senac
-
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts)](https://skillicons.dev)
 
