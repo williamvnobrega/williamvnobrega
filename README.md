@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Code Girl image" src="./man-developing-website-on-desk.svg"  width="300px"/>
+<img align="right" alt="Coding image" src="./coding.svg"  width="300px"/>
 🎓 Graduated in Computer System Analysis @ Senac <br>
 🌐 Web development
 
