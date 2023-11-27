@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="Code Girl image" src="./man-developing-website-on-desk.svg"  width="300px"/>
-🎓 Computer System Analysis @ Senac <br>
+🎓 Graduated in Computer System Analysis @ Senac <br>
 🌐 Web development
 
 ### Skills
