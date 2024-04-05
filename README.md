@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 🌐 Web development
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,postgres)](https://skillicons.dev)
 
 ### Development tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,ps,postman)](https://skillicons.dev)
