@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="Coding image" src="./coding.svg"  width="300px"/>
-🎓 Graduating in Computer Science  <br>
+🎓 Pursuing a Computer Science degree  <br>
 
 
 ### Skills
