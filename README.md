@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="Coding image" src="./coding.svg"  width="300px"/>
-🎓 Graduated in Computer System Analysis @ Senac <br>
-🌐 Web development
+🎓 Graduating in Computer Science  <br>
+
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,ts,nodejs,postgres)](https://skillicons.dev)
 
 ### Development tools
 
