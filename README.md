@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,postgres)](https://skillicons.dev)
 
 ### Development tools
 
